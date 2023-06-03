@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/increm.git/static/css/main.073c9b0a.css",
+    "main.js": "/increm.git/static/js/main.326666e0.js",
+    "static/js/787.b9eef66d.chunk.js": "/increm.git/static/js/787.b9eef66d.chunk.js",
+    "index.html": "/increm.git/index.html",
+    "main.073c9b0a.css.map": "/increm.git/static/css/main.073c9b0a.css.map",
+    "main.326666e0.js.map": "/increm.git/static/js/main.326666e0.js.map",
+    "787.b9eef66d.chunk.js.map": "/increm.git/static/js/787.b9eef66d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.326666e0.js"
+  ]
+}
